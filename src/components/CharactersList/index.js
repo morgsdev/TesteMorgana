@@ -11,7 +11,7 @@ import { LazyLoadImage } from 'react-lazy-load-image-component'
 import Loading from '../Loading'
 import { endpoint, apikey } from '../../configs'
 
-import './CharactersList.css'
+import './ListaPersonagens.css'
 const styles = createMuiTheme({
   typography: {
     useNextVariants: true,

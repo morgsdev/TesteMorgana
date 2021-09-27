@@ -82,11 +82,11 @@ const styles = theme => ({
 
 const menuItems = [
   {
-    text: 'Comics',
+    text: 'Revistas',
     route: '/comics',
   },
   {
-    text: 'Characters',
+    text: 'Personagens',
     route: '/characters',
   }
 ]
