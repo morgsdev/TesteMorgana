@@ -128,7 +128,7 @@ class App extends React.Component {
                 <MenuIcon />
               </IconButton>
               <Typography variant="h6" color="inherit" noWrap>
-                ReactJS Marvel API
+                Teste Morgana
               </Typography>
             </Toolbar>
           </AppBar>
